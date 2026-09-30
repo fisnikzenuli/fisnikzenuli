@@ -1,6 +1,6 @@
 # fisnikzenuli.github.io
 
-My portfolio website, live at **[fisnikzenuli.github.io](https://fisnikzenuli.github.io)**.
+My portfolio website, live at **[https://fisnikzenuli.github.io/fisnikzenuli/](https://fisnikzenuli.github.io/fisnikzenuli/)**.
 
 ## How it works
 
